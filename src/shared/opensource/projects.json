@@ -22,7 +22,7 @@
         "id": "R_kgDOG_vYHA",
         "name": "Biomedicine Agency",
         "url": null,
-        "description": "Re-writing of a 20-years-old Oracle Forms mess into an Angular web app. The app manages bone marrow donors and recipients, ensuring seamless coordination in the donation process.",
+        "description": "Re-writing of a 20-years-old Oracle Forms mess into an Angular web app. The app ensures seamless coordination between bone marrow donors and recipients, .",
         "isFork": false,
         "languages": [
           {
@@ -76,7 +76,7 @@
         "type": "personal",
         "subtype": "desktop",
         "url": "https://github.com/ashutosh1919/react-awesome-shapes",
-        "description": "I use this app I built with Electron on daily basis at work. The app help me to better analyse a bug before touching the code, it generates Markdown file and creates dedicated git branch.",
+        "description": "Used daily at work, this Electron-built app aids me in thoroughly analyzing bugs before delving into coding.",
         "languages": [
           {
             "name": "HTML",
@@ -93,32 +93,6 @@
           {
             "name": "Electron",
             "iconifyClass": "skill-icons:electron"
-          }
-        ]
-      },
-      {
-        "id": "R_kgDOGcPKSQ",
-        "name": "E-Commerce",
-        "type": "personal",
-        "subtype": "web application",
-        "url": "https://github.com/ashutosh1919/neuro-symbolic-sudoku-solver",
-        "description": "I acquired proficiency in Angular through my graduation project, which not only earned me certification but also deepened my understanding of the framework. The incorporation of Angular Material showcases my dedication to elegant and clean design.",
-        "languages": [
-          {
-            "name": "Java",
-            "iconifyClass": "logos-python"
-          },
-          {
-            "name": "Spring",
-            "iconifyClass": "devicon:spring"
-          },
-          {
-            "name": "TypeScript",
-            "iconifyClass": "skill-icons:typescript"
-          },
-          {
-            "name": "Angular",
-            "iconifyClass": "devicon:angularjs"
           }
         ]
       },
@@ -142,10 +116,10 @@
       },
       {
         "id": "MDEwOlJlcG9zaXRvcnkzMjcyMjI5Njk=",
-        "name": "Job Mate",
+        "name": "JobMate",
         "type": "personal",
         "subtype": "desktop",
-        "description": "An automated job-search application that significantly reduces the job searching time.",
+        "description": "This Flask web app revolutionizes the job searching process, reducing the job searching time by 90%",
         "languages": [
           {
             "name": "Python",
@@ -193,7 +167,7 @@
         "name": "OutlookReplAI",
         "subtype": "AI",
         "url": "https://github.com/yourusername/outlook-replay-ai",
-        "description": "Ever wish your emails could reply on their own? OutlookReplAI to the rescue! AI-driven application for automated and intelligent email replies using Outlook integration.",
+        "description": "AI-driven application for automated and intelligent email replies using Outlook integration.",
         "languages": [
           {
             "name": "Python",
@@ -219,19 +193,28 @@
         ]
       },
       {
-        "id": "MDEwOlJlcG9zaX3434DE5NDMxMjE=",
-        "name": "SpeechRecAI",
-        "subtype": "AI",
-        "url": "https://github.com/yourusername/speech-rec-ai",
-        "description": "Talking to your computer? SpeechRecAI listens, understands, and takes action. AI-powered application for speech recognition and analysis.",
+        "id": "R_kgDOGcPKSQ",
+        "name": "E-Commerce",
+        "type": "personal",
+        "subtype": "web application",
+        "url": "https://github.com/ashutosh1919/neuro-symbolic-sudoku-solver",
+        "description": "I acquired proficiency in Angular through my graduation project, which not only earned me certification but also deepened my understanding of the framework. The incorporation of Angular Material showcases my dedication to elegant and clean design.",
         "languages": [
           {
-            "name": "Python",
-            "iconifyClass": "logos:python"
+            "name": "Java",
+            "iconifyClass": "logos-python"
           },
           {
-            "name": "OpenAI",
-            "iconifyClass": "logos:openai-icon"
+            "name": "Spring",
+            "iconifyClass": "devicon:spring"
+          },
+          {
+            "name": "TypeScript",
+            "iconifyClass": "skill-icons:typescript"
+          },
+          {
+            "name": "Angular",
+            "iconifyClass": "devicon:angularjs"
           }
         ]
       }
