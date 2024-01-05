@@ -3,11 +3,12 @@
 .header {
   /*max-width: 90%;*/
   padding-right: 5rem;
-  padding-top: 2rem;
+  padding-top: 1.5rem;
   /*margin: 0 auto;*/
   /*display: flex;*/
   /*justify-content: flex-end;*/
 }
+
 .flexend {
   display: flex;
   justify-content: flex-end;
@@ -35,7 +36,6 @@
 
 .header li a:hover,
 .header .menu-btn:hover {
-  /*background-color: #A6E1FA; */
   border-radius: 30px;
 }
 
@@ -52,6 +52,7 @@
 
 .menu {
   font-family: "Google Sans Regular", sans-serif;
+  font-size: 1rem;
 }
 
 .header .menu {
